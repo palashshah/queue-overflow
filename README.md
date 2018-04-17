@@ -61,9 +61,9 @@ This section contains the workflow of the application
 
 ### Notification system in which user get notified for following things:
 
-- A new answer has been posted on your question <question>
-- <user> has up up/down voted your comment/answer on <question> .
-- You have been awarded points by <admin-name>.
+- A new answer has been posted on your question "question-link"
+- "user-name" has up up/down voted your comment/answer on "question-link" .
+- You have been awarded points by "admin-name".
 
 ### Extras
 
