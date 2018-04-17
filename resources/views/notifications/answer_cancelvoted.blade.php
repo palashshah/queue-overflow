@@ -1,0 +1,1 @@
+<a href="{{route('questions.show', $notification->data['question']['id'])}}" class="nav-link">{{$notification->data['user']['name']}} cancelled his/her vote on your answer.</a>

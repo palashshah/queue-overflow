@@ -1,0 +1,1 @@
+<a href="{{auth()->user()->path()}}" class="nav-link">You have been awarded {{$notification->data['points']}} points by {{$notification->data['user']['name']}}.</a>
